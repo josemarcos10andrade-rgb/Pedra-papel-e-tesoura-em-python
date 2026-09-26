@@ -1,5 +1,4 @@
-# Pedra-papel-e-tesoura-em-python
-Um código simples do jogo clássico pedra, papel e tesoura com código simples em python 
+
 # ✂️ Pedra, Papel e Tesoura em Python
 
 Um jogo clássico de terminal desenvolvido em Python para praticar conceitos fundamentais de lógica de programação e controlo de fluxo.
